@@ -1,7 +1,11 @@
-console.log(str3);
+const heros = ["shaktiman", "naagraj", "doga"];
+// let myObj = {
+//     name: "hitesh",
+//     age: 22,
+// }
 
-// console.log("1" + 2);
-// console.log(1 +"2");
-// console.log(1 + 2+"2");
+// const myFunction = function(){
+//     console.log("Hello world");
+// }
 
-// console.log((3+4) * 5 %3);
+// console.log(typeof anotherId);
